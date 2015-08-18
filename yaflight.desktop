@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=yaflight
+Comment=A minimal and easy launcher for FlightGear
+Exec=/usr/bin/yaflight
+Icon=yaflight
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Game;Simulation;
